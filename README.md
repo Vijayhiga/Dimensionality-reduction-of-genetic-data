@@ -1,7 +1,3 @@
-# Genomic Data Visualization Pipeline
-
-This is my attempt at the selection tests for the [GSoC 2019](https://summerofcode.withgoogle.com/) project, "Human history and data visualization" under the [Canadian Center for Computational Genomics](http://computationalgenomics.ca/)
-
 ## Usage
 
 ```
